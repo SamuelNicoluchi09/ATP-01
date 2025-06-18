@@ -1,0 +1,7 @@
+a) Não especifica para o que o ponteiro está apontando, e ao chma-lo no print erá um valor indefinido.
+b) 2 tipos diferentes de ponteiro, um não pode receber o outro, atribuiçãao de tiposincopativeis gera erro.
+c) Falta fazer a diferenciação de x, pois não pode atribuir um inteiro a um ponteiro sem fazer a diferenciaçao.
+d) Um vetor alocado estaticamente, não pode ser movido como um dinamico no caso do S++, falta indicar o tamanho de S.
+e) Um ponteiro void não pode apontar para um outro tipo,
+f)Faltou fazer a diferenciação para poder printar o seu valor e não o endereço.
+g)s não foi inicializado, e não está sendo diferenciado no print para printar seu valor

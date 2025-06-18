@@ -1,0 +1,10 @@
+
+a)array
+b)são do mesmo tipo
+c)indice
+d)p[0],p[1],p[2],p[3],p[4]
+e)Valor
+f)Declarar 
+g)quantidade de linhas, quantidade de colunas
+h)m,n,m*n
+i)d[3][5] ou d[2][4]
